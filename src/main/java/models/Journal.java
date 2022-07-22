@@ -54,7 +54,7 @@ public class Journal {
         return qty;
     }
 
-    public void setPrice(){
+    public void setPrice(double expectedPrice){
         this.price = price;
     }
 

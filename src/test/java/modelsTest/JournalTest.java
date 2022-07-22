@@ -36,8 +36,8 @@ public class JournalTest {
     public void constructorTest() {
         //given
         int expectedId = 6;
-        String expectedType = "Weekly";
-        String expectedBrand = "Happy Planner";
+        String expectedType = "Dot Grid";
+        String expectedBrand = "Archie Olive";
         int expectedSize = 8;
         int expectedQty = 1000;
         double expectedPrice = 35.53;
